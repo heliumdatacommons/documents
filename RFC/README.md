@@ -76,7 +76,7 @@ An **Informational** DCPPC-RFC describes a NIH Data Commons design issue, or pro
 
 
 
-##Background on DCPPC-RFCs
+## Background on DCPPC-RFCs
 #### Background
 The activities of both the Full Stacks (FSs) and the Key Capabilities (KCs) play a vital role in the Data Commons (DC), and are also critical to the NHLBI Data STAGE. In the process of building the Data Commons we must make decisions, but we need to make decisions based on feedback from individual contributors, the FSs, the KCs, and the many NIH stakeholders, including Data STAGE.  Further, there is considerable overlap and interaction between the KCs and the FSs, but they have somewhat different responsibilities and timelines.  As a result, we need to establish a process that enables effective interactions between the KCs and the FSs, and also supports shared decision making.  To accomplish this, we propose the use of Requests for Comments (RFCs).
 
