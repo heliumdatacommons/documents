@@ -1,7 +1,5 @@
 # DCPPC RFC Implementation Process (DRAFT)
 
-## 
-
 -----------
 ## DCPPC Request for Comment (RFC) Instructions and Guidelines
 
