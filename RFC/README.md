@@ -23,7 +23,11 @@
 	* Submitting Group (e.g. KC#)
 	* Requested RFC posting start date
 	* Requested RFC posting end date
-	* Date Emailed for consideration (see
+	* Date Emailed for consideration
+	* DCPPC-RFC-Status : (DCPPC-RFC-Governance will assign an initial value of “Active and open RFC period” updating with values in Steps 6 and 8 as required)
+	* URL Link to GitHub : (DCPPC-RFC-Governance will assign a link of where intermediate and final PDFs are stored per Step 9)
+	* URL Link to Google Doc (URL of DCPPC-RFC Google Doc for a given RFC)
+
 4. Email the RFC Google Doc URL to DCPPC-RFC-Governance {Owen, Titus, Stan}
 	a. Within 1 business day, they will either approve and post to {leads@dcppc.groups.io, nih-dcppc general slack channel} or email back Point of Contact requesting refinement or clarification
 	b. If posted to {leads@dcppc.groups.io, nih-dcppc general slack channel}, a unique DCPPC-RFC tag will be assigned based on the pattern: 
