@@ -13,6 +13,6 @@
 **Date Emailed for consideration :** 06/04/2018  
 **DCPPC-RFC-Status :** Active and open RFC period  
 **URL Link to GitHub :** https://github.com/heliumdatacommons/documents/tree/master/RFC/RFC_1  
-**URL Link to this Document :** http://bit.ly/dcppc-rfc-1  
+**URL Link to Google Document :** http://bit.ly/dcppc-rfc-1  
   
 For information about the DCPPC RFC Process, see http://bit.ly/dcppc-draft-rfc  
