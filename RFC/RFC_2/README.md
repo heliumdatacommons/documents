@@ -5,8 +5,8 @@
 **DCPPC-RFC-Title :**  Common IDs and Minimal Metadata Agreement RFC    
 **DCPPC-RFC-Version :** 1  
 **DCPPC-RFC-Type :**    
-**Name of the person who is to be Point of Contact for the RFC :** C. Titus Brown    
-**Email of the person who is to be Point of Contact for the RFC :** ctbrown@ucdavis.edu    
+**Name of the person who is to be Point of Contact for the RFC :** Ian Foster    
+**Email of the person who is to be Point of Contact for the RFC :** foster@uchicago.edu      
 **Submitting Group (e.g. KC#) :** KC7  
 **Requested RFC posting start date :** 06/nn/2018  
 **Requested RFC posting end date :** nn/nn/2018  
